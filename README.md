@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="[linkedin logo](https://www.linkedin.com/in/ahmed-mostafa-saad-92171320a/)"  />
   </a>
   <a href="https://www.facebook.com/hmadmostafasaad" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
     <a href="https://drive.google.com/file/d/1ISMUuT5O0OphT0XEKKRa9h-_2FeoEamU/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Drive&logo=drive&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=My CV&logo=google drive&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
     </a>
 </div>
 
