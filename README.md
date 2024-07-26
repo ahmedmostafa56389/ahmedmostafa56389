@@ -31,9 +31,9 @@
 <p align="left">
 
 Ahmed Mostafa
+
 DevOps Engineer
 
-Professional Summary
 Experienced DevOps Engineer with a strong background in automating and optimizing complex infrastructure deployments. Adept at implementing CI/CD pipelines, managing cloud environments, and ensuring seamless operations across development and production systems. Passionate about leveraging cutting-edge technologies and best practices to drive efficiency, scalability, and reliability. Currently seeking new opportunities to contribute to innovative projects and dynamic teams.
 
 Key Competencies
