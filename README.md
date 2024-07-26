@@ -16,15 +16,11 @@
     </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there, It's me  👋</h1>
 
 ###
 
@@ -32,8 +28,41 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
 
+Ahmed Mostafa
+DevOps Engineer
+
+Professional Summary
+Experienced DevOps Engineer with a strong background in automating and optimizing complex infrastructure deployments. Adept at implementing CI/CD pipelines, managing cloud environments, and ensuring seamless operations across development and production systems. Passionate about leveraging cutting-edge technologies and best practices to drive efficiency, scalability, and reliability. Currently seeking new opportunities to contribute to innovative projects and dynamic teams.
+
+Key Competencies
+CI/CD Pipeline Development: Expertise in designing and implementing continuous integration and continuous deployment pipelines to streamline software delivery and improve development workflows.
+Cloud Services Management: Proficient in managing and deploying applications in cloud environments such as AWS, Azure, and Google Cloud Platform.
+Infrastructure as Code (IaC): Skilled in using tools like Terraform and Ansible to automate infrastructure provisioning and configuration.
+Containerization & Orchestration: Experienced with Docker and Kubernetes for containerization and orchestration, enhancing application scalability and reliability.
+Professional Experience
+DevOps Engineer Intern
+ivolve Technologies
+[05/2024] – Present
+
+Implemented and optimized CI/CD pipelines, reducing deployment times by [X]% and improving release quality.
+Managed cloud infrastructure on [AWS/Azure/GCP], achieving cost savings and performance improvements.
+Automated infrastructure provisioning and configuration using [Terraform/Ansible].
+
+Education
+Bachelor of Science in Computer Engineering
+Monufia University
+
+Certifications and Training
+NTI Scholarship for Cloud DevOps, [Year]: Completed a comprehensive program focused on advanced cloud DevOps practices, including hands-on experience with cloud platforms, CI/CD tools, and infrastructure automation.
+
+Skills
+CI/CD Pipelines: Jenkins, GitLab CI
+Cloud Platforms: AWS, Azure, Google Cloud Platform
+Infrastructure as Code: Terraform, Ansible
+Containerization: Docker, Kubernetes
+Scripting Languages: Python, Bash
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
