@@ -31,31 +31,30 @@
 <p align="left">
 
 Ahmed Mostafa
-
 DevOps Engineer
 
-Experienced DevOps Engineer with a strong background in automating and optimizing complex infrastructure deployments. Adept at implementing CI/CD pipelines, managing cloud environments, and ensuring seamless operations across development and production systems. Passionate about leveraging cutting-edge technologies and best practices to drive efficiency, scalability, and reliability. Currently seeking new opportunities to contribute to innovative projects and dynamic teams.
+Skilled DevOps Engineer with hands-on experience in automating infrastructure, managing cloud environments, and optimizing CI/CD pipelines. Adept in leveraging modern tools and best practices to enhance operational efficiency and scalability. Actively seeking opportunities to apply my expertise in innovative projects and dynamic teams.
 
 Key Competencies
-CI/CD Pipeline Development: Expertise in designing and implementing continuous integration and continuous deployment pipelines to streamline software delivery and improve development workflows.
-Cloud Services Management: Proficient in managing and deploying applications in cloud environments such as AWS, Azure, and Google Cloud Platform.
-Infrastructure as Code (IaC): Skilled in using tools like Terraform and Ansible to automate infrastructure provisioning and configuration.
-Containerization & Orchestration: Experienced with Docker and Kubernetes for containerization and orchestration, enhancing application scalability and reliability.
-Professional Experience
+CI/CD Pipelines: Jenkins, GitLab CI
+Cloud Platforms: AWS, Azure, Google Cloud Platform
+Infrastructure as Code: Terraform, Ansible
+Containerization: Docker, Kubernetes
+
 DevOps Engineer Intern
 ivolve Technologies
 [05/2024] – Present
 
-Implemented and optimized CI/CD pipelines, reducing deployment times by [X]% and improving release quality.
-Managed cloud infrastructure on [AWS/Azure/GCP], achieving cost savings and performance improvements.
-Automated infrastructure provisioning and configuration using [Terraform/Ansible].
+Enhanced CI/CD pipelines, improving deployment times and release quality.
+Managed cloud infrastructure and automated provisioning using Terraform/Ansible.
 
 Education
 Bachelor of Science in Computer Engineering
 Monufia University
 
 Certifications and Training
-NTI Scholarship for Cloud DevOps, [Year]: Completed a comprehensive program focused on advanced cloud DevOps practices, including hands-on experience with cloud platforms, CI/CD tools, and infrastructure automation.
+NTI Scholarship for Cloud DevOps: Advanced training in cloud DevOps practices.
+ITI 4-Month DevOps Scholarship: Intensive program covering cloud technologies and DevOps methodologies.
 
 Skills
 CI/CD Pipelines: Jenkins, GitLab CI
@@ -91,7 +90,7 @@ Scripting Languages: Python, Bash
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats   looking for an entry level DevOps position  :</h3>
 
 ###
 
